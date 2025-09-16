@@ -32,11 +32,7 @@ Discord Server: uBXaGEng6A
 
 # Anti Virus Saying that it is a Virus? 🪲
 
-This Program was compiled by Pyinstaller. So that is the reason its saying that.
-
-Also if you dont trust me Join our discord server for the source code.
-
-Or if you really want to use this program but you are scared of the false positives, you can create a virtual machine in a virtual box where raiding works too.
+If you are not sure about the program i just added a folder in the rar file where you can see the raw code!
 
 # WARNING ⚠️
 **DO NOT USE THIS ON OTHER PEOPLE AS THIS SCRIPT IS ONLY FOR EDICATIONAL PURPOSES IF YOU USE THIS ON OTHER PEOPLE IM NOT RESPONSIBLE FOR ANY DAMAGE ON ANY DISCORD SERVER**
