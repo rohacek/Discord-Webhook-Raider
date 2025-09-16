@@ -34,6 +34,8 @@ Discord Server: uBXaGEng6A
 
 If you are not sure about the program i just added a folder in the rar file where you can see the raw code!
 
+Sadly Virustotal wont work it will show false positives!
+
 # WARNING ⚠️
 **DO NOT USE THIS ON OTHER PEOPLE AS THIS SCRIPT IS ONLY FOR EDICATIONAL PURPOSES IF YOU USE THIS ON OTHER PEOPLE IM NOT RESPONSIBLE FOR ANY DAMAGE ON ANY DISCORD SERVER**
 
