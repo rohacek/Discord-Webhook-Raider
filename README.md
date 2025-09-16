@@ -4,9 +4,9 @@ Easy and Simple Discord Webhook Raider! Made in Python by rohacek!💖
 if you have questions join my discord server! uBXaGEng6A 🖥️
 
 # How to set up?
-*1. Download the File*
-*2. READ THE* **READ ME.TXT** *Optional*
-*3. Run the* **ROHBOM.exe**
+*1.Download the File*
+*2.READ THE* **READ ME.TXT** *Optional*
+*3.Run the* **ROHBOM.exe**
 
 Thats All Have Fun (:
 
